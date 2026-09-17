@@ -2,8 +2,6 @@
 
 **A dbt + SQL analytics project that reconciles messy field-operations data into a true cost-to-serve per job and route -- and surfaces where SLA breaches actually concentrate.**
 
-![field-ops-sql-cost-audit](assets/hero.png)
-
 ## The problem
 
 Logistics, field-service, and delivery operators need two answers they usually can't get: *what does it truly cost to serve each job/route?* and *where do our SLA breaches actually concentrate?* The data that would answer them lives across disconnected operational tables - dispatch, routes, timesheets, fuel, tickets - in inconsistent shapes. So finance guesses at margins and ops can't see the pattern behind the breaches.
